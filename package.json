@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warning: No tests yet\" && exit 0"
+    "test": "echo \"Warning: No tests created yet.\" && exit 0"
   },
   "repository": {
     "type": "git",
